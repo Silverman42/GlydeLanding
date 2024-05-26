@@ -54,7 +54,7 @@
             src="/img/hero_kuda_logo.png"
           />
           <img
-            class="w-[23.3%] grayscale pt-2 relative z-[1]"
+            class="w-[23.3%] grayscale pt-1 relative z-[1]"
             src="/img/hero_monnify_logo.png"
           />
           <img

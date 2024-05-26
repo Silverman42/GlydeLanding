@@ -12,13 +12,13 @@
       </nuxt-link>
       <ul class="flex items-center gap-6 md:gap-16">
         <li class="">
-          <a href="#" class="text-sm text-[#373758]"> Products </a>
+          <a href="#" class="text-xs md:text-sm text-[#373758]"> Products </a>
         </li>
         <li class="">
-          <a href="#" class="text-sm text-[#373758]"> Pricing </a>
+          <a href="#" class="text-xs md:text-sm text-[#373758]"> Pricing </a>
         </li>
         <li class="">
-          <a href="#" class="text-sm text-[#373758]"> FAQ's </a>
+          <a href="#" class="text-xs md:text-sm text-[#373758]"> FAQ's </a>
         </li>
       </ul>
       <a
