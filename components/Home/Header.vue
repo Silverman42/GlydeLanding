@@ -23,7 +23,7 @@
       </ul>
       <a
         href="/"
-        class="border inline-block text-sm text-[#373758] hover:text-[#D7D6FF] transition-all duration-300 hover:bg-[#373758] rounded-full border-[#D7D6FF] px-4 py-3"
+        class="border inline-block text-xs md:text-sm text-[#373758] hover:text-[#D7D6FF] transition-all duration-300 hover:bg-[#373758] rounded-full border-[#D7D6FF] px-4 py-3"
       >
         Sign in
       </a>
