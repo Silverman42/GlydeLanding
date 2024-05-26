@@ -1,0 +1,90 @@
+html {
+  scroll-behavior: smooth;
+}
+.slideUp-enter-active,
+.slideUp-leave-active {
+  transition: all 0.5s ease;
+}
+
+.slideUp-enter-from,
+.slideUp-leave-to {
+  opacity: 0;
+  transform: translateY(80%);
+}
+
+.slideInRight-enter-active,
+.slideInRight-leave-active {
+  transition: all 0.5s ease;
+}
+
+.slideInRight-enter-from,
+.slideInRight-leave-to {
+  opacity: 0;
+  transform: translateX(-80%);
+}
+
+.slideInLeft-enter-active,
+.slideInLeft-leave-active {
+  transition: all 0.5s ease;
+}
+
+.slideInLeft-enter-from,
+.slideInLeft-leave-to {
+  opacity: 0;
+  transform: translateX(80%);
+}
+
+.slideDown-enter-active,
+.slideDown-leave-active {
+  transition: all 0.5s ease;
+}
+
+.slideDown-enter-from,
+.slideDown-leave-to {
+  opacity: 0;
+  transform: translateY(-80%);
+}
+
+.slideDownModal-enter-active,
+.slideDownModal-leave-active {
+  transition: all 0.3s ease;
+}
+
+.slideDownModal-enter-from,
+.slideDownModal-leave-to {
+  opacity: 0;
+  transform: translateY(-80%) translateX(-50%);
+}
+
+.slideUpModal-enter-active,
+.slideUpModal-leave-active {
+  transition: all 0.3s ease;
+}
+
+.slideUpModal-enter-from,
+.slideUpModal-leave-to {
+  opacity: 0;
+  transform: translateY(80%) translateX(-50%);
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.3s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+
+.zoom-enter-active,
+.zoom-leave-active {
+  transition: all 0.4s ease;
+}
+
+.zoom-enter-from,
+.zoom-leave-to {
+  opacity: 0;
+  transform: scale(0.9,0.9);
+}
