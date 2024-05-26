@@ -32,8 +32,7 @@
           </li>
           <li>
             <p
-              to="/"
-              class="text-[#8191B1] transition-all duration-300 font-medium text-xs"
+              class="text-[#8191B1] inline-block transition-all duration-300 font-medium text-xs"
             >
               © 2024 Glyde Inc.
             </p>
