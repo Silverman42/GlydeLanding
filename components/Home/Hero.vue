@@ -47,22 +47,22 @@
           </p>
         </div>
         <div
-          class="max-w-[695px] mx-auto pt-[24px] relative flex justify-between items-center bg-"
+          class="max-w-[695px] mx-auto pt-[24px] relative flex justify-between items-center bg-transparent"
         >
           <img
-            class="w-[17.1%] grayscale relative z-[1]"
+            class="w-[17.1%] mix-blend-luminosity relative z-[1]"
             src="/img/hero_kuda_logo.png"
           />
           <img
-            class="w-[23.3%] grayscale pt-1 relative z-[1]"
+            class="w-[23.3%] mix-blend-luminosity pt-1 relative z-[1]"
             src="/img/hero_monnify_logo.png"
           />
           <img
-            class="w-[23.3%] grayscale relative z-[1]"
+            class="w-[23.3%] mix-blend-luminosity relative z-[1]"
             src="/img/hero_paystack_logo.png"
           />
           <img
-            class="w-[23.3%] grayscale pt-1 relative z-[1]"
+            class="w-[23.3%] mix-blend-luminosity pt-1 relative z-[1]"
             src="/img/hero_payaza_logo.png"
           />
         </div>

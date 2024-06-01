@@ -30,7 +30,7 @@ const activeIndex = ref(0);
       </p>
       <div class="pt-[50px] grid grid-cols-1 md:grid-cols-3 gap-2">
         <div class="md:col-span-2">
-          <img src="/img/code_sample.svg" class="w-full" alt="code sample" />
+          <img src="/img/code_sample.webp" class="w-full" alt="code sample" />
         </div>
         <div class="bg-[#111722] rounded-2xl p-[24px] flex flex-col gap-[32px]">
           <div class="w-full mb-[50px]">
@@ -91,7 +91,7 @@ const activeIndex = ref(0);
               <div class="flex-shrink-0 p-[24px] pt-0">
                 <img
                   src="/img/code_sample_icon.png"
-                  class="w-[32px]"
+                  class="w-[32px] rounded-full aspect-square"
                   alt="code sample icon"
                 />
               </div>
