@@ -8,15 +8,15 @@ useHead({
   meta: [
     {
       name: "description",
-      content: "Crypto conversion in 60 seconds !!",
+      content: "Glyde : Automated disbursement in a flash",
     },
     {
       property: "og:description",
-      content: `Crypto conversion in 60 seconds !!`,
+      content: `Glyde : Automated disbursement in a flash`,
     },
     {
       property: "twitter:description",
-      content: `Crypto conversion in 60 seconds !!`,
+      content: `Glyde : Automated disbursement in a flash`,
     },
   ],
 });
